@@ -1,0 +1,122 @@
+[
+    {
+        "marca": "Tesla Model S",
+        "modelo": "Plaid",
+        "año": 2023,
+        "tipo": "Deportivo",
+        "capacidad": 2,
+        "precio_diario": 350.0
+    },
+    {
+        "marca": "Toyota Camry",
+        "modelo": "XLE",
+        "año": 2022,
+        "tipo": "Sedán",
+        "capacidad": 5,
+        "precio_diario": 65.5
+    },
+    {
+        "marca": "Honda Civic",
+        "modelo": "Touring",
+        "año": 2023,
+        "tipo": "Sedán",
+        "capacidad": 4,
+        "precio_diario": 60.0
+    },
+    {
+        "marca": "Ford Mustang",
+        "modelo": "GT",
+        "año": 2022,
+        "tipo": "Deportivo",
+        "capacidad": 2,
+        "precio_diario": 150.0
+    },
+    {
+        "marca": "Chevrolet Suburban",
+        "modelo": "LT",
+        "año": 2023,
+        "tipo": "SUV",
+        "capacidad": 8,
+        "precio_diario": 120.75
+    },
+    {
+        "marca": "BMW 3 Series",
+        "modelo": "M340i",
+        "año": 2022,
+        "tipo": "Sedán",
+        "capacidad": 5,
+        "precio_diario": 95.0
+    },
+    {
+        "marca": "Audi Q5",
+        "modelo": "Premium Plus",
+        "año": 2023,
+        "tipo": "SUV",
+        "capacidad": 5,
+        "precio_diario": 110.25
+    },
+    {
+        "marca": "Mercedes-Benz E-Class",
+        "modelo": "E350",
+        "año": 2022,
+        "tipo": "Sedán",
+        "capacidad": 4,
+        "precio_diario": 125.5
+    },
+    {
+        "marca": "Nissan Rogue",
+        "modelo": "SV",
+        "año": 2023,
+        "tipo": "SUV",
+        "capacidad": 5,
+        "precio_diario": 75.0
+    },
+    {
+        "marca": "Volkswagen Golf",
+        "modelo": "GTI",
+        "año": 2022,
+        "tipo": "Compacto",
+        "capacidad": 4,
+        "precio_diario": 70.25
+    },
+    {
+        "marca": "Hyundai Sonata",
+        "modelo": "Limited",
+        "año": 2023,
+        "tipo": "Sedán",
+        "capacidad": 5,
+        "precio_diario": 62.75
+    },
+    {
+        "marca": "Kia Sportage",
+        "modelo": "EX",
+        "año": 2022,
+        "tipo": "SUV",
+        "capacidad": 5,
+        "precio_diario": 80.0
+    },
+    {
+        "marca": "Subaru Outback",
+        "modelo": "Premium",
+        "año": 2023,
+        "tipo": "SUV",
+        "capacidad": 7,
+        "precio_diario": 85.5
+    },
+    {
+        "marca": "Lexus ES",
+        "modelo": "350",
+        "año": 2022,
+        "tipo": "Sedán",
+        "capacidad": 5,
+        "precio_diario": 110.0
+    },
+    {
+        "marca": "Mazda CX-5",
+        "modelo": "Grand Touring",
+        "año": 2023,
+        "tipo": "SUV",
+        "capacidad": 5,
+        "precio_diario": 90.75
+    }
+]

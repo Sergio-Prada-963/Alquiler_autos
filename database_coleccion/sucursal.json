@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Rápidos y Furiosos",
+        "direccion": "Calle Toreto #52",
+        "telefono": 31524852
+    },
+    {
+        "nombre": "Automóviles Veloz",
+        "direccion": "Avenida de la Velocidad #123",
+        "telefono": 55567890
+    },
+    {
+        "nombre": "Autos del Futuro",
+        "direccion": "Calle Innovación #789",
+        "telefono": 98765432
+    },
+    {
+        "nombre": "Autos Clásicos Vintage",
+        "direccion": "Plaza de la Nostalgia #456",
+        "telefono": 12345678
+    },
+    {
+        "nombre": "Autos Verdes Eco",
+        "direccion": "Calle Sostenibilidad #321",
+        "telefono": 87654321
+    },
+    {
+        "nombre": "Autos Deportivos Xtreme",
+        "direccion": "Avenida de la Adrenalina #654",
+        "telefono": 23456789
+    },
+    {
+        "nombre": "Automóviles Elegantes Elegance",
+        "direccion": "Calle de la Elegancia #987",
+        "telefono": 76543210
+    },
+    {
+        "nombre": "Autos FamiliarComfort",
+        "direccion": "Plaza de la Comodidad #210",
+        "telefono": 34567890
+    },
+    {
+        "nombre": "Autos Premium Prestige",
+        "direccion": "Avenida Prestigio #543",
+        "telefono": 87654321
+    },
+    {
+        "nombre": "Autos Urbanos CityDrive",
+        "direccion": "Calle Urbana #678",
+        "telefono": 45678901
+    },
+    {
+        "nombre": "Autos Todoterreno Explorer",
+        "direccion": "Calle de la Aventura #123",
+        "telefono": 98765432
+    },
+    {
+        "nombre": "Automóviles de Lujo Luxe",
+        "direccion": "Avenida del Lujo #876",
+        "telefono": 23456789
+    },
+    {
+        "nombre": "Autos Compactos MiniDrive",
+        "direccion": "Plaza Compacta #456",
+        "telefono": 34567890
+    },
+    {
+        "nombre": "Autos Innovadores TechDrive",
+        "direccion": "Calle de la Innovación #321",
+        "telefono": 45678901
+    },
+    {
+        "nombre": "Autos de Época VintageCars",
+        "direccion": "Avenida Nostalgia #765",
+        "telefono": 23456789
+    }
+]

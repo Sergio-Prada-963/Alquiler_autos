@@ -1,0 +1,31 @@
+{
+  "name": "alquiler_autos",
+  "version": "1.0.0",
+  "description": "alquiler de automoviles",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio-Prada-963/Alquiler_autos.git"
+  },
+  "author": "Sergio Alejandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergio-Prada-963/Alquiler_autos/issues"
+  },
+  "homepage": "https://github.com/Sergio-Prada-963/Alquiler_autos#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

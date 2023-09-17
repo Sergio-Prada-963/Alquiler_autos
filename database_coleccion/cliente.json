@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Alejandro",
+        "apellido": "Hernández Pino",
+        "DNI": 846655420,
+        "direccion": "Avenida Sur #52",
+        "telefono": 3185478795,
+        "email": "alejandro@gmail.com"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Gómez Martínez",
+        "DNI": 723415689,
+        "direccion": "Calle Norte #14",
+        "telefono": 3159876543,
+        "email": "laura@hotmail.com"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Rodríguez López",
+        "DNI": 963258741,
+        "direccion": "Calle Este #35",
+        "telefono": 3201234567,
+        "email": "carlos@yahoo.com"
+    },
+    {
+        "nombre": "María",
+        "apellido": "García Fernández",
+        "DNI": 548796321,
+        "direccion": "Avenida Oeste #78",
+        "telefono": 3112345678,
+        "email": "maria@gmail.com"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Sánchez González",
+        "DNI": 874125369,
+        "direccion": "Calle Central #6",
+        "telefono": 3178945612,
+        "email": "pedro@hotmail.com"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martínez Pérez",
+        "DNI": 635489752,
+        "direccion": "Avenida Principal #21",
+        "telefono": 3196547890,
+        "email": "ana@gmail.com"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "López Rodríguez",
+        "DNI": 214785369,
+        "direccion": "Calle Secundaria #47",
+        "telefono": 3147859632,
+        "email": "javier@yahoo.com"
+    },
+    {
+        "nombre": "Sara",
+        "apellido": "Torres Soto",
+        "DNI": 758965421,
+        "direccion": "Avenida de la Paz #59",
+        "telefono": 3169854721,
+        "email": "sara@gmail.com"
+    },
+    {
+        "nombre": "Fernando",
+        "apellido": "Gómez Ruiz",
+        "DNI": 365478952,
+        "direccion": "Calle Tranquila #12",
+        "telefono": 3158745692,
+        "email": "fernando@hotmail.com"
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Pérez Jiménez",
+        "DNI": 986547321,
+        "direccion": "Avenida Principal #32",
+        "telefono": 3187452369,
+        "email": "lucia@gmail.com"
+    },
+    {
+        "nombre": "David",
+        "apellido": "Rodríguez Fernández",
+        "DNI": 215689743,
+        "direccion": "Calle Norte #3",
+        "telefono": 3135478965,
+        "email": "david@yahoo.com"
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "López Martínez",
+        "DNI": 745896321,
+        "direccion": "Avenida Central #15",
+        "telefono": 3125698741,
+        "email": "elena@gmail.com"
+    },
+    {
+        "nombre": "Manuel",
+        "apellido": "García Torres",
+        "DNI": 365478952,
+        "direccion": "Calle Tranquila #27",
+        "telefono": 3198745621,
+        "email": "manuel@hotmail.com"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Sánchez Pérez",
+        "DNI": 985632147,
+        "direccion": "Avenida de la Paz #18",
+        "telefono": 3169852478,
+        "email": "isabel@gmail.com"
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Fernández López",
+        "DNI": 478956321,
+        "direccion": "Calle del Sol #9",
+        "telefono": 3178965423,
+        "email": "pablo@yahoo.com"
+    }
+]

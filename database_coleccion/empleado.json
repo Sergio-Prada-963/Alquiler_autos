@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Marcela",
+        "apellido": "Meza Rosio",
+        "DNI": 965484025,
+        "direccion": "Irlanda calle 9 #521",
+        "telefono": 3124578902,
+        "cargo": "Gerente de Ventas"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "López Rodríguez",
+        "DNI": 753214896,
+        "direccion": "Calle del Sol #123",
+        "telefono": 3157894562,
+        "cargo": "Analista de Marketing"
+    },
+    {
+        "nombre": "Sofía",
+        "apellido": "González Martínez",
+        "DNI": 654789321,
+        "direccion": "Avenida Principal #456",
+        "telefono": 3184567890,
+        "cargo": "Ingeniero de Software"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Torres Soto",
+        "DNI": 874569321,
+        "direccion": "Calle Tranquila #789",
+        "telefono": 3149876543,
+        "cargo": "Contador"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Sánchez Pérez",
+        "DNI": 965847321,
+        "direccion": "Avenida de la Paz #345",
+        "telefono": 3196547890,
+        "cargo": "Diseñador Gráfico"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Fernández López",
+        "DNI": 745896321,
+        "direccion": "Calle Norte #678",
+        "telefono": 3138745692,
+        "cargo": "Especialista en Recursos Humanos"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martínez Pérez",
+        "DNI": 896547321,
+        "direccion": "Avenida Central #234",
+        "telefono": 3125698741,
+        "cargo": "Desarrollador Web"
+    },
+    {
+        "nombre": "Daniel",
+        "apellido": "Gómez Ruiz",
+        "DNI": 365478952,
+        "direccion": "Calle de la Innovación #21",
+        "telefono": 3187452369,
+        "cargo": "Analista de Datos"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Rodríguez Fernández",
+        "DNI": 215689743,
+        "direccion": "Avenida de los Proyectos #789",
+        "telefono": 3158742365,
+        "cargo": "Técnico de Soporte"
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "García Torres",
+        "DNI": 985632147,
+        "direccion": "Calle de la Creatividad #432",
+        "telefono": 3169852147,
+        "cargo": "Analista de Marketing"
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Hernández Pino",
+        "DNI": 846655420,
+        "direccion": "Avenida sur #52",
+        "telefono": 3185478795,
+        "cargo": "Analista Financiero"
+    },
+    {
+        "nombre": "Carmen",
+        "apellido": "López Martínez",
+        "DNI": 785632147,
+        "direccion": "Calle de la Creatividad #456",
+        "telefono": 3198745632,
+        "cargo": "Ingeniero de Software"
+    },
+    {
+        "nombre": "Roberto",
+        "apellido": "Soto Gómez",
+        "DNI": 632147895,
+        "direccion": "Avenida de la Innovación #876",
+        "telefono": 3147859632,
+        "cargo": "Gerente de Proyectos"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Martínez Pérez",
+        "DNI": 748965321,
+        "direccion": "Calle de la Creatividad #789",
+        "telefono": 3169852478,
+        "cargo": "Analista de Recursos Humanos"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Gómez López",
+        "DNI": 895632147,
+        "direccion": "Avenida de la Innovación #345",
+        "telefono": 3178965423,
+        "cargo": "Desarrollador Web"
+    }
+]
