@@ -198,3 +198,42 @@ http://localhost:3309/api/reservas
 ```
 
 #### llevar un registro detallado de cada entrega -- POST 
+
+```nodejs
+http://localhost:3309/api/entregas
+// datos a enviar ejemplo
+{
+    "id_cliente": "65064c9cbf2d49bcd3814ec4",
+    "id_automovil": "65064c83bf2d49bcd3814eb4",
+    "fecha_reserva": "2023-08-24T00:00:00.000Z",
+    "fecha_inicio": "2023-09-04T00:00:00.000Z",
+    "fecha_fin": "2023-10-04T00:00:00.000Z",
+    "estado": true
+}
+```
+
+#### llevar un registro detallado de cada devolucion -- POST 
+
+```nodejs
+http://localhost:3309/api/devoluciones
+// datos a enviar ejemplo
+{
+    "id_alquiler": "65066fd282c709990ece5402",
+    "id_empleado": "65064cb3bf2d49bcd3814ed5",
+    "fecha_devolucion": "2023-04-29T00:00:00.000Z",
+    "combustible_devuelto": 7.6,
+    "kilometraje_devuelto": 458,
+    "monto_adicional": 575.9
+}
+```
+
+#### Se implementará un sistema de autenticación basado en JWT (JSON Web Tokens) sin este token no podra realizar las acciones de metodos post y get de la informacion de los empleados para garantizar la seguridada de la informacion
+
+```nodejs
+http://localhost:3309/api/empleado/login
+// datos a enviar ejemplo
+{
+    "nombre": "Marcela",
+    "DNI": 965484025
+}
+```
