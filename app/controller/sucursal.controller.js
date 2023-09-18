@@ -1,7 +1,7 @@
 import Sucursal from "../models/Sucursal.js";
 import { response } from "express";
 
-//2. Mostrar todos los clientes registrados en la base de datos.
+//get all
 export const allSucursales = async (req, res = response) => {
 	try {
 		const { desde, hasta } = req.query;

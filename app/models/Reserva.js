@@ -9,7 +9,7 @@ const reservaSchema = new Schema({
 	},
 	id_automovil: {
 		type: Schema.Types.ObjectId,
-		ref: "sucursal_automovil",
+		ref: "automoviles",
 		required: true,
 		trim: true,
 	},
